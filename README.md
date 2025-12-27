@@ -104,6 +104,17 @@ This repository follows a standard GitHub workflow:
 3. **Pull requests** merge changes after review.
 4. **Releases** tag stable versions of the simulation.
 
+## Releases
+
+The first stable version of the simulation is tagged as [v1.0.0](https://github.com/sohige-aacodeakt/rochester-cloak-simulation/releases/tag/v1.0.0). This release includes:
+
+- Core ABCD‑matrix simulation (`simulate_cloak.py`)
+- Ray‑trajectory visualization (`visualize_rays.py`)
+- Complete documentation (`README.md`)
+- MIT License (`LICENSE`)
+
+All release assets (source code and pre‑generated ray‑path plot) can be downloaded from the [releases page](https://github.com/sohige-aacodeakt/rochester-cloak-simulation/releases).
+
 ## References
 
 1. J. S. Choi and J. C. Howell, “Paraxial ray optics cloaking,” *Optics Express* **22**, 29465‑29478 (2014).
